@@ -2,6 +2,8 @@
 
 ![Screenshot (255)](https://github.com/user-attachments/assets/c89edb91-91a8-45e9-80c8-9bc4a66ccda0)
 
+![Screenshot (72)](https://github.com/user-attachments/assets/9ad2c5fd-24fe-455d-97e1-6984e419efe2)
+
 **Overview**
 This project focuses on the design and simulation of an antenna using **CST Studio Suite**, a leading software for electromagnetic simulations and antenna modeling. The primary objective is to create an efficient, compact antenna suitable for various communication applications, such as wireless communication, IoT, and satellite systems. This project not only demonstrates the practical use of CST software but also lays the groundwork for a research paper on antenna design. The antenna is designed to meet specific performance parameters, optimized through simulations, and analyzed in detail to ensure its efficiency and practicality.
 
